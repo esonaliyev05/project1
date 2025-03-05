@@ -78,7 +78,7 @@ const Footer = () => {
           required
         />
         <textarea
-          name="message"
+          name="MASSAGE"
           placeholder="MASSAGE"
           value={formData.message}
           onChange={handleChange}
