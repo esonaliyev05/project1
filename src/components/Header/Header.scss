@@ -152,6 +152,12 @@ header {
                 font-family: Arial, Helvetica, sans-serif;
                 font-weight: 700;
                 font-size: 45px;
+                transition: all .2s linear;
+
+                &:hover{
+                  color: #4ee1a0;
+                  cursor: pointer;
+                }
 
             }
 
@@ -388,6 +394,7 @@ header {
         h1{
           font-size: 35px;
           margin: 0 0 5px 0;
+        
         }
 
         br{
