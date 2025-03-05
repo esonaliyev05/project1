@@ -71,8 +71,8 @@ const Footer = () => {
         />
         <input
           type="email"
-          name="EMAIL"
-          placeholder="Emailingiz"
+          name="email"
+          placeholder="EMAIL"
           value={formData.email}
           onChange={handleChange}
           required
