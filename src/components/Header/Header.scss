@@ -266,9 +266,16 @@ header {
         .box{
           width: 100%;
         text-align: center;
+        margin: 25px 0;
+
 
         h1{
-          font-size: 25px;
+          font-size: 35px;
+          margin: 0 0 5px 0;
+        }
+
+        br{
+          display: none;
         }
 
         }
@@ -373,12 +380,18 @@ header {
         padding:  25px;
 
         .box{
-          width: 50%;
-        text-align: start;
+          width: 100%;
+        text-align: center;
         margin: 25px 0;
+
 
         h1{
           font-size: 35px;
+          margin: 0 0 5px 0;
+        }
+
+        br{
+          display: none;
         }
 
         }
