@@ -8,7 +8,10 @@ const Main = () => {
         <div className="main_text">
           <h1>Projects</h1>
 
+<a href="#concat">
+
           <button>CONTACT ME</button>
+</a>
         </div>
         <div className="tap_container">
           <div className="projects-grid">

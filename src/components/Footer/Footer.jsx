@@ -49,7 +49,7 @@ const Footer = () => {
         <img src="bg-header-left.png" alt="" />
       </div>
 
-      <div className="container_footer">
+      <div className="container_footer" id="concat">
         <div className="footer_parent">
           <div className="text">
             <h1>Contact</h1>
@@ -64,14 +64,14 @@ const Footer = () => {
         <input
           type="text"
           name="name"
-          placeholder="Ismingiz"
+          placeholder="NAME"
           value={formData.name}
           onChange={handleChange}
           required
         />
         <input
           type="email"
-          name="email"
+          name="EMAIL"
           placeholder="Emailingiz"
           value={formData.email}
           onChange={handleChange}
@@ -79,7 +79,7 @@ const Footer = () => {
         />
         <textarea
           name="message"
-          placeholder="Xabaringizni yozing..."
+          placeholder="MASSAGE"
           value={formData.message}
           onChange={handleChange}
           required

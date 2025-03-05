@@ -3,4 +3,17 @@
   min-height: 100vh;
   background: #151515;
   overflow: hidden;
+  
+}
+.loader_container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: #ffffff; */
+  z-index: 999;
 }
