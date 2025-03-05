@@ -98,22 +98,20 @@ const Footer = () => {
           <h1>adamkeyes</h1>
 
           <div className="nav_link">
-            <a href="">
-              {" "}
-              <FaGithub />{" "}
-            </a>
-            <a href="">
-              {" "}
-              <SiMeta />
-            </a>
-            <a href="">
-              {" "}
-              <FaLinkedin />
-            </a>
-            <a href="">
-              <FaTwitter />{" "}
-            </a>
-          </div>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+    <FaGithub />
+  </a>
+  <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+    <SiMeta />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+    <FaLinkedin />
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+    <FaTwitter />
+  </a>
+</div>
+
         </div>
       </div>
     </footer>
