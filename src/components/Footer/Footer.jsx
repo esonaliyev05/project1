@@ -10,7 +10,7 @@ const Footer = () => {
     <footer>
 
       <div className="bg-left">
-        <img src="public/bg-header-left.png" alt="" />
+        <img src="bg-header-left.png" alt="" />
       </div>
 
     <div className='container_footer'>

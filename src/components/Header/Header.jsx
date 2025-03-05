@@ -23,7 +23,7 @@ const Header = () => {
        </nav>
 
        <div className='bg-header'>
-        <img src="./public/bg-header-left.png" alt="" />
+        <img src="bg-header-left.png" alt="" />
        </div>
         
         <div className="haeder-container">
@@ -34,7 +34,7 @@ const Header = () => {
           </div>
 
            <div className="header-public">
-            <img src="public/image-removebg-preview(4).png" alt="" />
+            <img src="image-removebg-preview(4).png" alt="" />
            </div>
 
         </div>
@@ -45,7 +45,7 @@ const Header = () => {
      <div className="header_tols">
 
       <div className="bg-right">
-        <img src="public/bg-header-left.png" alt="" />
+        <img src="bg-header-left.png" alt="" />
       </div>
       
       <div className="boxses">

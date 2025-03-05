@@ -16,7 +16,7 @@ const Main = () => {
         <div className="projects-grid">
           <div className="project-card">
             <div className="image-overlay">
-              <img src="/Bitmap.png" alt="DESIGN PORTFOLIO" />
+              <img src="Bitmap.png" alt="DESIGN PORTFOLIO" />
               <div className="overlay-content">
                 <button className="view-btn">VIEW PROJECT</button>
                 <button className="code-btn">VIEW CODE</button>
@@ -30,7 +30,7 @@ const Main = () => {
 
           <div className="project-card">
             <div className="image-overlay">
-              <img src="/Bitmap (1).png" alt="E-COMMERCE WEBSITE" />
+              <img src="Bitmap (1).png" alt="E-COMMERCE WEBSITE" />
               <div className="overlay-content">
                 <button className="view-btn">VIEW PROJECT</button>
                 <button className="code-btn">VIEW CODE</button>
@@ -44,7 +44,7 @@ const Main = () => {
 
           <div className="project-card">
             <div className="image-overlay">
-              <img src="/Bitmap (2).png" alt="WEB APP" />
+              <img src="Bitmap (2).png" alt="WEB APP" />
               <div className="overlay-content">
                 <button className="view-btn">VIEW PROJECT</button>
                 <button className="code-btn">VIEW CODE</button>
@@ -58,7 +58,7 @@ const Main = () => {
 
           <div className="project-card">
             <div className="image-overlay">
-              <img src="/Bitmap (3).png" alt="MOBILE DESIGN" />
+              <img src="Bitmap (3).png" alt="MOBILE DESIGN" />
               <div className="overlay-content">
                 <button className="view-btn">VIEW PROJECT</button>
                 <button className="code-btn">VIEW CODE</button>
@@ -72,7 +72,7 @@ const Main = () => {
 
           <div className="project-card">
             <div className="image-overlay">
-              <img src="/Bitmap (4).png" alt="LANDING PAGE" />
+              <img src="Bitmap (4).png" alt="LANDING PAGE" />
               <div className="overlay-content">
                 <button className="view-btn">VIEW PROJECT</button>
                 <button className="code-btn">VIEW CODE</button>
@@ -85,7 +85,7 @@ const Main = () => {
           </div>
           <div className="project-card">
             <div className="image-overlay">
-              <img src="public/Bitmap (5).png" alt="LANDING PAGE" />
+              <img src="Bitmap (5).png" alt="LANDING PAGE" />
               <div className="overlay-content">
                 <button className="view-btn">VIEW PROJECT</button>
                 <button className="code-btn">VIEW CODE</button>
